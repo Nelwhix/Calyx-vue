@@ -1,0 +1,12 @@
+[
+  { "id": 1,  "name": "Jollof rice",   "price": { "USD": 3.26}, "logo": "jollof.jpg"},
+  { "id": 2,  "name": "Fried rice",  "price": { "USD": 9.44}, "logo": "friedrice.jpg"},
+  { "id": 3,  "name": "Eguisi Soup",    "price": { "USD": 5.20}, "logo": "egusi.jpg"},
+  { "id": 4,  "name": "Asaro",    "price": { "USD": 0.95}, "logo": "porridge.jpg"},
+  { "id": 5,  "name": "Shrimp rice",    "price": { "USD": 1.04}, "logo": "shrimp rice.jpg"},
+  { "id": 6,  "name": "Chinese Noodles",        "price": { "USD": 7.53}, "logo": "noodles.png"},
+  { "id": 7,  "name": "Pasta Bolognese",      "price": { "USD": 4.94}, "logo": "bolognese.jpg"},
+  { "id": 8, "name": "Chicken and French fries",        "price": { "USD": 6.45}, "logo": "french fries.jpg"},
+  { "id": 9, "name": "Frozen Yoghurt",       "price": { "USD": 9.95}, "logo": "yoghurt.png"},
+  { "id": 10, "name": "Icecream",          "price": { "USD": 2.60}, "logo": "ice-cream.jpg"}
+]
